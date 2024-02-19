@@ -1,9 +1,7 @@
-import "./App.css";
-
 function App() {
   return (
     <>
-      <h1>Done !</h1>
+      <h1>React is ready !</h1>
     </>
   );
 }
